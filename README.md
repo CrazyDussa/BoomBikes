@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Boom Bikes Linear Regression Assignment
+> This project focuses on explaining the target feature using optimal number of input features with Linear Regression Algorithm.
 
 
 ## Table of Contents
@@ -11,10 +11,10 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- Boom Bikes is a US based bike sharing provider has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. They wants to cater the people's needs once the situation gets better all around and stand out from other service providers.
+- Boom Bikes is trying to understand the factors on which the demand for these shared bikes depends.
+- We will find "which variable is significant in predicting the demand for shared bikes" and "how well those variables describe the bike demands".
+- Based on various meteorological surveys and people's styles, Boom Bikes has gathered a large dataset on daily bike demands across the American market based on some factors. 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -28,21 +28,21 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- matplotlib
+- pandas
+- seaborn
+- statsmodel
+- scikit-learn
+- numpy
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project is part of my "Executive PG Programme in Machine Learning & AI" assignment.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@CrazyDussa] - feel free to contact me!
 
 
 <!-- Optional -->
