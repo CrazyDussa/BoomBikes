@@ -19,10 +19,18 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Model built with all Features 27 has R2 Score as 81.2% on Test Data
+- Model built with 14 Features 
+  'const','temperature','humidity','windspeed','season_spring','season_winter','year_2019',
+  'month_dec','month_nov','month_sep','is_holiday_not_holiday','weekday_saturday',
+  'is_workingday_workingday','weather_lightrain','weather_mist'
+  has R2 Score as 79.38% on Test Data
+- Model built with 10 Features  
+  'const','temperature','humidity','windspeed','season_spring','season_winter','year_2019',
+  'weekday_saturday','is_workingday_workingday','weather_lightrain','weather_mist'
+  has R2 Score as 78.6% on Test Data
+  
+So we will go with 10 Features model as final one.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
